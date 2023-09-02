@@ -1,52 +1,27 @@
-### Hi there 👋, my name is Ethan Hook
-#### Code Architect | Full Stack Developer | Problem Solver 🔧
+## Hi there 👋, I'm Ethan Hook
 
-I'm a passionate welsh developer with a love for crafting web experiences that push boundaries. My favorite tools of the trade are **React** and **Next.js**, which allow me to bring ideas to life on the web.
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh | Code Architect | Full Stack Developer | Problem Solver 🔧
 
-**Making a difference** in how people browse and use websites is what truly motivates me. As the founder of **EHDevelopment**, I'm on a mission to create innovative digital solutions that enhance user experiences.
+I'm passionate about crafting boundary-pushing web experiences using React and Next.js. I believe in enhancing user experiences to make a real difference.
 
-In my development journey, I embrace a dynamic approach. I do the design process on the fly, valuing practical coding over elaborate design. **User experience** always takes the front seat in my projects because I believe it's the key to success in the digital world.
+As the founder of EHDevelopment, I'm on a mission to create innovative digital solutions.
 
-Here are a couple of my favorite quotes that guide my path:
-- *"People who succeed hit many failures and potholes; that's what makes you stronger."*
-- *"If you don't fail, you never succeed."*
+🔥 **Favorite Tech Stack:**
+- TypeScript
+- React (Next.js)
+- Node.js, Express
+- MongoDB, MySQL
+- Git, VS Code (Insiders Edition)
+- GitHub, Vercel
+- Tailwind CSS, Prisma
 
-Looking ahead, I have big dreams for EHDevelopment. My goal is to expand the company's reach and achieve the impossible in the world of web development and software development.
+🎯 **Skills:** React, Next.js, Tailwind CSS, Prisma, MySQL, MongoDB
 
-### 💻 Favorite Tech Stack
+🚀 **Current Project:**
+I'm working on a groundbreaking web app for the FiveM British GTA V community. This feature-rich project is redefining gaming communities.
 
-Here's a glimpse of my favorite technologies and tools that power my development journey:
-
-- **Programming Language:** TypeScript
-
-- **Front-End Libray:** React
-
-- **Front-End Framework:** Next.js (v13)
-
-- **Back-End Technologies:** Node.js, Express
-
-- **Databases:** MongoDB, MySQL
-
-- **Version Control:** Git
-
-- **Code Editor:** Visual Studio Code (Insiders Edition)
-
-- **Version Control Platform:** GitHub
-
-- **Web Hosting/Deployment:** Vercel
-
-- **Preferred CSS Framework:** Tailwind CSS
-
-- **Database ORM:** Prisma
-
-These are the building blocks that fuel my passion for web and software development. With this tech stack, I bring ideas to life, create seamless user experiences, and turn concepts into reality. Let's innovate and code the future together! 🚀
-
-
-
-Skills: React, Next.js (v13), Tailwind css, Prisma, Mysql,MongoDB
-
-- 🔭 I’m currently working on I'm currently pouring my passion and expertise into a groundbreaking project for the FiveM British GTA V community. This web application is more than just a platform; it's a robust, feature-rich powerhouse tailored to meet the unique needs of our community. From advanced features to seamless user experiences, this project is pushing boundaries and redefining what's possible in the world of gaming communities. 
-- 📫 How to reach me: ethanhookdev@gmail.com 
+📬 **How to Reach Me:**
+- **Email:** [ethanhookdev@gmail.com](mailto:ethanhookdev@gmail.com)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EthanHook2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ehdevelopment.co.uk)  
