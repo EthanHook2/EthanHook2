@@ -22,7 +22,6 @@ I'm working on a groundbreaking web app for the FiveM British GTA V community. T
 
 📬 **How to Reach Me:**
 - **Email:** [ethanhookdev@gmail.com](mailto:ethanhookdev@gmail.com)
-- **My Site Contact Form:** (https://portfolio-new-lyart-ten.vercel.app) - ContactForm INOP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EthanHook2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ehdevelopment.co.uk)  
