@@ -28,7 +28,7 @@ I'm working on a groundbreaking web app for the FiveM British GTA V community. T
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanHook2)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=EthanHook2&langs_count=6&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=EthanHook2&langs_count=6&theme=shadow_red)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EthanHook2&show_icons=true&count_private=true)  
 
